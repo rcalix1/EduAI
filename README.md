@@ -13,3 +13,7 @@
 * Udemy
 * FullStackAcademy
 * SimplyLearn
+
+## AI Edu agents
+
+* MathGPT
